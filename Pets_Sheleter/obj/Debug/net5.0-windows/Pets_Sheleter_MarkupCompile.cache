@@ -1,5 +1,5 @@
 ﻿Pets_Sheleter
-1.0.0.0
+
 
 winexe
 C#
@@ -12,9 +12,9 @@ TRACE;DEBUG;NET;NET5_0;NETCOREAPP
 C:\Users\svlsi\Desktop\petsShelter\PetsShelter\Pets_Sheleter\App.xaml
 11407045341
 
-92059831448
+7-782529712
 196-217793087
 MainWindow.xaml;
 
-False
+True
 

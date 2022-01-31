@@ -1,0 +1,5 @@
+C:\Users\svlsi\Desktop\petsShelter\PetsShelter\Pets_Sheleter\obj\Debug\net5.0-windows\Pets_Sheleter.csproj.AssemblyReference.cache
+C:\Users\svlsi\Desktop\petsShelter\PetsShelter\Pets_Sheleter\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\svlsi\Desktop\petsShelter\PetsShelter\Pets_Sheleter\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\svlsi\Desktop\petsShelter\PetsShelter\Pets_Sheleter\obj\Debug\net5.0-windows\Pets_Sheleter_MarkupCompile.cache
+C:\Users\svlsi\Desktop\petsShelter\PetsShelter\Pets_Sheleter\obj\Debug\net5.0-windows\Pets_Sheleter_MarkupCompile.lref

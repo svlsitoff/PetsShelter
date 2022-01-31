@@ -13,5 +13,8 @@ namespace Pets_Sheleter.Models
         public int Health { get; set; }
         public int IdDisease { get; set; }
         public string PicturePath { get; set; }
+        public double Weight { get; set; }
+        public string TypePet { get; set; }
+        public string Breed { get; set; }
     }
 }
